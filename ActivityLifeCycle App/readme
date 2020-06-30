@@ -1,0 +1,1 @@
+This App gives basic understanding for Android Activity's Life Cycle with methods: onCreate(), onStart(), onResume(), onPause(), onStop(), onDestroy(), onRestart().
