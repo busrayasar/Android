@@ -1,2 +1,2 @@
 # Android
-XML ile Android uygulama arayüz tasarımlarına örnek olarak Veteriner uygulaması ekranı tasarlanmıştır. ANdroid Studio'da uygulamayı açarak inceleyebilirsiniz.
+This folder contains Android Application GUI elements examples.
